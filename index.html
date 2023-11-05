@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles/normalize.css" />
+    <link rel="stylesheet" href="./styles/body.css" />
+    <link rel="stylesheet" href="./styles/config.css" />
+    <link rel="stylesheet" href="./styles/main.css" />
+    <link rel="stylesheet" href="./styles/nav.css" />
+    <link rel="stylesheet" href="./styles/table.css" />
+    <!-- <script src="./scripts/importLibrary.js" defer></script> -->
+    <!-- <script src="./scripts/like.js" defer></script>
+    <script src="./scripts/selectByGenre.js" defer></script>
+    <script src="./scripts/selectByBpm.js" defer></script>
+    <script src="./scripts/selectByName.js" defer></script>
+    <script src="./scripts/sortByLen.js" defer></script> -->
+    <script src="./scripts/sortSelect.js" defer></script>
+  </head>
+  <body>
+    <nav>
+      <div id="searchBar" name="searchBar">
+        <img src="./assets/search.png" alt="search" />
+        <input type="text" name="search" placeholder="Search.." />
+      </div>
+      <div id="sort">
+        <span> Sort by Length </span>
+        <input id="sortByLen" type="radio" />
+      </div>
+    </nav>
+    <main>
+      <table>
+        <thead>
+          <tr>
+            <td class="headerTd" name="artistsHeader">Artist</td>
+            <td class="headerTd" name="titleHeader">Title</td>
+            <td class="headerTd" name="genreHeader">Genre</td>
+            <td class="headerTd" name="bpmHeader">Bpm</td>
+            <td class="headerTd" name="durationHeader">Duration</td>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </main>
+  </body>
+</html>

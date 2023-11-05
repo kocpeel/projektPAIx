@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "artists": ["Luna Skies", "DJ Solarflare"],
+    "title": "Moonlit Dance",
+    "coverUrl": "https://i.pinimg.com/originals/ea/1f/64/ea1f64668a0af149a3277db9e9e54824.jpg",
+    "genre": "House",
+    "bpm": 128,
+    "duration": 195
+  },
+  {
+    "id": "2",
+    "artists": ["The Velvet Owls"],
+    "title": "Whispered Secrets",
+    "coverUrl": "https://pub-static.fotor.com/assets/projects/pages/c7d9749a29fc44a5a54da2bba21165af/gradient-cool-new-bullet-e52b9cac8825471981dc12dd343176da.jpg",
+    "genre": "Rock",
+    "bpm": 115,
+    "duration": 223
+  },
+  {
+    "id": "3",
+    "artists": ["Luna Skies"],
+    "title": "Eclipse Heartbeat",
+    "coverUrl": "https://cdn.musebycl.io/2022-07/Bocanada.jpg",
+    "genre": "Pop",
+    "bpm": 104,
+    "duration": 178
+  },
+  {
+    "id": "4",
+    "artists": ["Silver Bridge", "Luna Skies"],
+    "title": "Horizons Beyond",
+    "coverUrl": "https://www.rihannanow.com/wp-content/uploads/2015/10/RIRI-Front-6.203-x-5.4375-CMYK-898x1024.jpg",
+    "genre": "R&B",
+    "bpm": 110,
+    "duration": 212
+  },
+  {
+    "id": "5",
+    "artists": ["DJ Solarflare"],
+    "title": "Solar Surfer",
+    "coverUrl": "https://coverartland.com/wp-content/uploads/2023/08/obscure-350x350.jpg",
+    "genre": "Techno",
+    "bpm": 132,
+    "duration": 198
+  },
+  {
+    "id": "6",
+    "artists": ["The Velvet Owls", "Silver Bridge"],
+    "title": "Midnight Conversations",
+    "coverUrl": "https://decybeledizajnu.com/wp-content/uploads/2022/07/blood-moon-b-iext105662067.jpg",
+    "genre": "Indie",
+    "bpm": 96,
+    "duration": 236
+  },
+  {
+    "id": "7",
+    "artists": ["Harmonic Waves"],
+    "title": "Ocean's Lullaby",
+    "coverUrl": "https://blog.spoongraphics.co.uk/wp-content/uploads/2017/album-art/22.jpg",
+    "genre": "House",
+    "bpm": 80,
+    "duration": 270
+  },
+  {
+    "id": "8",
+    "artists": ["The Velvet Owls"],
+    "title": "Deserted Alleyways",
+    "coverUrl": "https://cdns-images.dzcdn.net/images/cover/404d06fa565dbb06f88b016dabac8272/264x264.jpg",
+    "genre": "Indie",
+    "bpm": 122,
+    "duration": 185
+  },
+  {
+    "id": "9",
+    "artists": ["Luna Skies", "Harmonic Waves"],
+    "title": "Starry Canopy",
+    "coverUrl": "https://t2.genius.com/unsafe/504x504/https%3A%2F%2Fimages.genius.com%2F0f93a486bfe3409c1fe5f9bfe95f649f.1000x1000x1.jpg",
+    "genre": "Trap",
+    "bpm": 90,
+    "duration": 240
+  },
+  {
+    "id": "10",
+    "artists": ["DJ Solarflare", "Silver Bridge"],
+    "title": "Galactic Groove",
+    "coverUrl": "https://i.pinimg.com/1200x/d7/10/ee/d710ee657d88cf447ddd511a2a087827.jpg",
+    "genre": "House",
+    "bpm": 134,
+    "duration": 220
+  },
+  {
+    "id": "11",
+    "artists": ["Thunder Echoes"],
+    "title": "Rumbling Skies",
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_lImJQuDOmcyjgMucPsd9VEaUBZMgS9fqiw&usqp=CAU",
+    "genre": "Rock",
+    "bpm": 130,
+    "duration": 210
+  },
+  {
+    "id": "12",
+    "artists": ["Crescent Moons", "Harmonic Waves"],
+    "title": "Silent Whispers",
+    "coverUrl": "https://images.genius.com/c93ba6fa10f7b55db8266a01e96893f7.1000x1000x1.jpg",
+    "genre": "R&B",
+    "bpm": 105,
+    "duration": 245
+  },
+  {
+    "id": "13",
+    "artists": ["DJ Solarflare", "Thunder Echoes"],
+    "title": "Electric Surge",
+    "coverUrl": "https://images.genius.com/9ebe8a2c41db9f1fe95402f9acdf3773.1000x1000x1.png",
+    "genre": "Techno",
+    "bpm": 140,
+    "duration": 225
+  },
+  {
+    "id": "14",
+    "artists": ["Silver Bridge", "Crescent Moons"],
+    "title": "Reflective Waters",
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7IEnT8TE7QKe_iEosObIvyJuNB9z6xuoPQ&usqp=CAU",
+    "genre": "Pop",
+    "bpm": 95,
+    "duration": 230
+  },
+  {
+    "id": "15",
+    "artists": ["Luna Skies", "Thunder Echoes"],
+    "title": "Dawning Hopes",
+    "coverUrl": "https://i1.sndcdn.com/artworks-CM0Tzm2OZLAZ4sCf-HdaOGw-t500x500.jpg",
+    "genre": "Drill",
+    "bpm": 120,
+    "duration": 240
+  }
+]

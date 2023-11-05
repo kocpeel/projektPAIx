@@ -1,0 +1,24 @@
+table {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--main-color);
+  color: var(--white);
+}
+
+table tr {
+  display: flex;
+  flex-direction: row;
+  background-color: var(--secondary-color);
+  height: 5rem;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem;
+  padding: 1rem;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+}
+
+table tr > td {
+  max-width: 100px;
+}

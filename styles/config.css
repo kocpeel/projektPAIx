@@ -1,0 +1,19 @@
+:root {
+  /* Main colors */
+  --white: #ffffff;
+  --very-light-gray: rgb(240, 240, 240);
+  --light-gray: rgb(230, 230, 230);
+  --gray: rgb(143, 143, 143);
+  --black: rgb(0, 0, 0);
+  --main-shadow: rgba(0, 0, 0, 0.4) 0px 2px 5px 0px,
+    rgba(0, 0, 0, 0.5) 0px 2px 15px 0px;
+  --secondary-shadow: 0 0.5rem 0.5rem 0 rgba(254, 229, 0, 0.3);
+  --main-font: "Comfortaa", sans-serif;
+
+  /* Convert */
+  --main-color: rgb(48, 0, 126);
+  --secondary-color: rgb(129, 0, 235);
+  --light-secondary-color: rgb(178, 84, 255);
+
+  /* ID & class colors */
+}
